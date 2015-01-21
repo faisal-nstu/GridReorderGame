@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>BS-021</Machine>
+    <WindowsUser>Faisal Amin</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>9c427378-a454-4569-be2e-9bd260ae7bb0</PackageIdentityName>
+    <RegisteredManifestChecksum>87A53659090D9BA8645ED344BB839DF0E6BFECDF9465A037E8FC6135C4C958C0</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>9c427378-a454-4569-be2e-9bd260ae7bb0_1.0.0.0_neutral__xqhre8k1astht</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>9c427378-a454-4569-be2e-9bd260ae7bb0_xqhre8k1astht!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>9c427378-a454-4569-be2e-9bd260ae7bb0</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Faisal Amin</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Faisal Amin\Documents\Visual Studio 2013\Projects\GridReorderGame\GridReorderGame\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-21T08:52:48.174</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Faisal Amin\Documents\Visual Studio 2013\Projects\GridReorderGame\GridReorderGame\bin\Debug\GridReorderExampleStoreApp.exe">
+      <PackagePath>GridReorderExampleStoreApp.exe</PackagePath>
+      <Modified>2015-01-21T08:52:48.056</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faisal Amin\Documents\Visual Studio 2013\Projects\GridReorderGame\GridReorderGame\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faisal Amin\Documents\Visual Studio 2013\Projects\GridReorderGame\GridReorderGame\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faisal Amin\Documents\Visual Studio 2013\Projects\GridReorderGame\GridReorderGame\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faisal Amin\Documents\Visual Studio 2013\Projects\GridReorderGame\GridReorderGame\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faisal Amin\Documents\Visual Studio 2013\Projects\GridReorderGame\GridReorderGame\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-01-21T08:50:08.536</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faisal Amin\Documents\Visual Studio 2013\Projects\GridReorderGame\GridReorderGame\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-01-21T08:50:08.537</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faisal Amin\Documents\Visual Studio 2013\Projects\GridReorderGame\GridReorderGame\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-01-21T08:50:08.811</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Prism.StoreApps</id>
+    <version>2.0.0</version>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <licenseUrl>http://prismwindowsruntime.codeplex.com/license</licenseUrl>
+    <projectUrl>http://prismwindowsruntime.codeplex.com/</projectUrl>
+    <iconUrl>http://www.gravatar.com/avatar/7db4eb02e62dfb5df5067169d12d9672?s=128&amp;r=g&amp;d=retro</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>This assembly targets Windows Store apps: Windows 8.1 and Windows Phone 8.1. The Microsoft.Practices.Prism.StoreApps library helps to bootstrap MVVM apps, manage state, perform navigation, implement data binding, and commands.</description>
+    <copyright>� 2014 Microsoft Corporation</copyright>
+    <language />
+    <tags>Microsoft patterns practices Windows Store apps MVVM prism winrt windows runtime storeapps</tags>
+    <dependencies>
+      <dependency id="Prism.Mvvm" version="1.1.1" />
+    </dependencies>
+  </metadata>
+</package>
